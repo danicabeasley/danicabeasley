@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danicabeasley
 - 👀 I’m interested in game devlopement
-- 🌱 I’m currently learning HTML, CSS, C#, Javascript, and Python
+- 🌱 I’m currently learning HTML, CSS, Javascript, and Python
 - 📫 Reach me with danicajeanbeasley@gmail.com
 
 <!---
